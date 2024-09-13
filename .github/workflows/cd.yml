@@ -83,7 +83,7 @@ jobs:
   deploy:
     name: Deploy to Production
     needs: build
-    runs-on: [ self-hosted, deploy-att-frontend ]
+    runs-on: [ self-hosted, deploy-cooing-frontend ]
     steps:
       - name: Get Github Actions IP
         id: ip
