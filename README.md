@@ -1,2 +1,2 @@
-# att-fastapi
-Attention
+# ci-cd-practice-frontend
+MY PRACTICE
